@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computing Science, University of Alberta, 2019-present
+* B.S. in Computing Science, University of Alberta, 2019-2024
 
 Work experience
 ======
